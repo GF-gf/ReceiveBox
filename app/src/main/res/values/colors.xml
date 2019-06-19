@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EEAD0E</color>//标题底色
+    <color name="colorPrimaryDark">#8470FF</color>//#912CEE
+    <color name="colorAccent">#8470FF</color>
+    <color name="colorButtonNormal">#DB7093</color>
+    <color name="colorButtonNorma2">#90EE90</color>
+    <color name="yellow">#EEAD0E</color>
+</resources>
